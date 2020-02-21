@@ -2,6 +2,10 @@
 
 A boilerplate for a development environment
 
+`@version 0.0.1`
+
+#### CHANGELOG
+
 #### Micro-frontends
 
 The architecture of the repo is a variation of a micro-frontend architecture
@@ -17,3 +21,7 @@ A diagram highlighting this alternative version.  Multiple front-end builds are 
 @see https://www.lucidchart.com/invitations/accept/6379efa2-b30b-4593-9434-b234d1fb0e2f
 
 
+#### Where does this repo fit into the build and deployment pipelines?
+
+`version 0.0.1`
+https://www.lucidchart.com/invitations/accept/0028a160-a528-4cbb-a4a0-61e0284627a0
