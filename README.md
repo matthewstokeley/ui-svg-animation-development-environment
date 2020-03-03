@@ -25,3 +25,6 @@ A diagram highlighting this alternative version.  Multiple front-end builds are 
 
 `version 0.0.1`
 https://www.lucidchart.com/invitations/accept/0028a160-a528-4cbb-a4a0-61e0284627a0
+
+
+@todo move to a container and add docker-compose.yml
